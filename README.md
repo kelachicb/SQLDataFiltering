@@ -5,7 +5,7 @@ The primary objective of this project is to implement a filtering mechanism targ
 
 
 ### Data Extraction
-* The data for this project was sourced from the historical price data available on Nasdaq's website. For reference, the data can be accessed directly via the following link: Nasdaq Historical Price Data for Ford Motor Company. Additionally, to facilitate ease of access and analysis, an .xls file containing the relevant data has been provided for your convenience.
+* The data for this project was sourced from the historical price data available on Nasdaq's website. For reference, the data can be accessed directly via the following link: [Nasdaq Historical Price Data for Ford Motor Company](https://www.nasdaq.com/market-activity/stocks/f/historical). Additionally, to facilitate ease of access and analysis, an .xls file containing the relevant data has been provided for your convenience.
   
 ### Technologies Used
 * The initial data file was in .csv format and was opened in Excel for data review and to remove non-relevant columns. The modified file was saved as a .xls format and subsequently imported into Microsoft SQL for query operations and further analysis.
